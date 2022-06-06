@@ -1,3 +1,4 @@
-data/*
-certs/*
-auth/*
+data/docker/
+certs/omdgrp.ir
+certs/registry*
+auth/htpasswd
