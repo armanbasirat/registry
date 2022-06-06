@@ -1,4 +1,4 @@
-data/docker/
-certs/omdgrp.ir/
-certs/registry*
-auth/htpasswd
+docker/
+omdgrp.ir/
+registry*
+htpasswd
