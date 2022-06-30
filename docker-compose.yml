@@ -7,8 +7,8 @@ services:
     ports:
       - 5000:5000
     environment:
-      REGISTRY_HTTP_TLS_CERTIFICATE: /certs/omdgrp.ir/omdgrp.ir.cer
-      REGISTRY_HTTP_TLS_KEY: /certs/omdgrp.ir/omdgrp.ir.key
+      REGISTRY_HTTP_TLS_CERTIFICATE: /certs/test.ir/test.ir.cer
+      REGISTRY_HTTP_TLS_KEY: /certs/omdgrp.ir/test.ir.key
       # REGISTRY_AUTH: htpasswd
       # REGISTRY_AUTH_HTPASSWD_PATH: /auth/htpasswd
       # REGISTRY_AUTH_HTPASSWD_REALM: Registry Realm
