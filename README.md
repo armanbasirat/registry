@@ -3,11 +3,11 @@
 
 
 ```bash
-curl -X GET https://registry.omdgrp.ir/v2/_catalog
+curl -X GET https://<registry-address>/v2/_catalog
 ```
 
 ```bash
-curl -X GET https://registry.omdgrp.ir/v2/rancher/rke-tools/tags/list
+curl -X GET https://<registry-address>/v2/rancher/rke-tools/tags/list
 ```
 
 
